@@ -16,7 +16,7 @@ There are 6 different racing track types involved in this game:
 ![image](https://github.com/user-attachments/assets/73be7062-8d93-4cf2-97d6-0057378e4cfd)
 
 - Descent (downhill)<br>
-![image](https://github.com/user-attachments/assets/76146db1-895f-4a53-b70c-d952d657fb00)
+![image](https://github.com/user-attachments/assets/6a00493d-b6e2-444b-90a9-12a3eab8c55f)
 
 - Double Decker<br>
 ![image](https://github.com/user-attachments/assets/404e182e-b4d3-48b4-afb9-1fc1a0f9fdd7)
