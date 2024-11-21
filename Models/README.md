@@ -22,15 +22,27 @@
 ![image](https://github.com/user-attachments/assets/b1a251c8-520c-44ac-86c7-ed8c2f22415f)
 ![image](https://github.com/user-attachments/assets/a1d0cd44-63e3-49dd-bfd7-8676bf48fde3)
 
+
 ## 90 degree turning racing track
 ### Step 1: Creating a base
 1. Create a part.
 2. Change the size to 80, 1, 80.<br>
 ![image](https://github.com/user-attachments/assets/686d9993-7aee-4cb7-a6cd-6d2bf88d507b)
 
+### Step 2: Creating the grass parts
+1. Create a part with size 71, 0.2, 9.
+2. Create a part with size 9, 0.2, 9.
+3. Create a part with size 9, 0.2, 80.
+4. Change the color of all 3 parts to ***Bright green***.
+5. Change the material of all 3 parts to ***Grass***.
+![image](https://github.com/user-attachments/assets/58566554-883b-495f-8c88-8dbc26675ae5)
+
+
 ## Start/End racing track
 
+
 ## Ramp racing track
+
 
 ## Double-decker racing track
 
