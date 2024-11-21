@@ -43,6 +43,14 @@
 3. Place (3) on the right part of the base.<br>
 ![image](https://github.com/user-attachments/assets/8a85e82b-52aa-455a-b79b-aca0b953cfe4)
 
+### Step 5: Creating the curbs parts
+1. Create 7 white parts and 7 red parts with size 6, 0.2, 8.
+2. Create 2 white parts and 2 red parts with size 6, 0.2, 9.
+3. Rotate and place all the parts as in the picture below.
+![image](https://github.com/user-attachments/assets/7f18fe76-3f33-4cc0-84ba-19d5e1df3dbf)
+
+
+
 
 ## Start/End racing track
 
