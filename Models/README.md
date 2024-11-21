@@ -34,8 +34,14 @@
 2. Create a part with size 9, 0.2, 9.
 3. Create a part with size 9, 0.2, 80.
 4. Change the color of all 3 parts to ***Bright green***.
-5. Change the material of all 3 parts to ***Grass***.
+5. Change the material of all 3 parts to ***Grass***.<br>
 ![image](https://github.com/user-attachments/assets/58566554-883b-495f-8c88-8dbc26675ae5)
+
+### Step 4: Placing the grass parts
+1. Place (1) on the upper part of the base.
+2. Place (2) on the bottom left of the base.
+3. Place (3) on the right part of the base.<br>
+![image](https://github.com/user-attachments/assets/8a85e82b-52aa-455a-b79b-aca0b953cfe4)
 
 
 ## Start/End racing track
