@@ -92,7 +92,15 @@
 ### Step 1: Creating a base
 1. Create a wedge.
 2. Change the size to 80, 20, 77.5.
-![image](https://github.com/user-attachments/assets/d6866460-6595-471d-8ce5-c91bdd7004c1)
+<br>![image](https://github.com/user-attachments/assets/d6866460-6595-471d-8ce5-c91bdd7004c1)
+
+### Step 2: Place in the track
+1. Duplicate a model of the flat track we created last week.
+2. Change the orientation of the new flat track -14.4,0,0.
+<br>![image](https://github.com/user-attachments/assets/6415ad00-9e27-49d3-bd31-dba9859bb64f)
+![image](https://github.com/user-attachments/assets/911f53c1-dee7-480f-8684-0725ff446eb0)
+
+
 
 
 
