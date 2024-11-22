@@ -118,6 +118,15 @@
 4. To avoid accidentally moving any parts there, group all of them up with Ctrl+G first.
 <br>![image](https://github.com/user-attachments/assets/d425cb6b-6269-40d5-ab2c-2ddbdd98c9e5)
 
+### Step 2: Creating the walls
+1. Create 2 blocks with size 9,19,80.
+2. Create another block with size 80,1,80.
+3. Change the material of all 3 blocks to ***Concrete***.
+<br>![image](https://github.com/user-attachments/assets/0ac87351-091b-414d-a897-429b54bc79a3)
+
+
+
+
 
 
 
