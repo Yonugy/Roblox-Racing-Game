@@ -62,6 +62,10 @@
 8. Rotate the wedges as in the picture below.<br>
 ![image](https://github.com/user-attachments/assets/a678d48e-ccc6-4f0c-86d5-cbb57874e755)
 
+### Step 7: Place the curbs parts
+![image](https://github.com/user-attachments/assets/b52c3ce2-5c47-4a7e-af11-8ed432a29f58)
+
+
 
 
 
