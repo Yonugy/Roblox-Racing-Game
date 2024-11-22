@@ -88,16 +88,13 @@
 <br>![image](https://github.com/user-attachments/assets/91badcea-9d09-49c3-a908-96c58356c40a)
 
 
-
-
-
-
-
-
-
-
-
 ## Start/End racing track
+### Step 1: Creating a base
+1. Create a wedge.
+2. Change the size to 80, 20, 77.5.
+![image](https://github.com/user-attachments/assets/d6866460-6595-471d-8ce5-c91bdd7004c1)
+
+
 
 
 ## Ramp racing track
