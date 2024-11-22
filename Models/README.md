@@ -89,6 +89,9 @@
 
 
 ## Start/End racing track
+
+
+## Ramp racing track
 ### Step 1: Creating a base
 1. Create a wedge.
 2. Change the size to 80, 20, 77.5.
@@ -107,16 +110,16 @@
 <br>![image](https://github.com/user-attachments/assets/e25d004d-8794-48d8-ac3b-19b4d1e09199)
 
 
-
-
-
-
-
-
-## Ramp racing track
-
-
 ## Double-decker racing track
+### Step 1: Creating the bottom deck
+1. Duplicate a flat track first.
+2. Ungroup the flat track with Ctrl+U.
+3. Delete the grass parts on both sides.
+4. To avoid accidentally moving any parts there, group all of them up with Ctrl+G first.
+<br>![image](https://github.com/user-attachments/assets/d425cb6b-6269-40d5-ab2c-2ddbdd98c9e5)
+
+
+
 
 
 
