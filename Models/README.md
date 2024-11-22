@@ -77,6 +77,18 @@
 3. Change the color of
 <br>(a) and (b) to ***Smoky grey***.
 <br>(c), (d), (e), and (f) to ***Lily white***.
+<br>![image](https://github.com/user-attachments/assets/0f4f456e-a17b-460e-bdd5-92308f151b8c)
+
+### Step 9: Placing the road parts
+![image](https://github.com/user-attachments/assets/afaa740c-f032-44e4-8cd1-d0580a4d1eac)
+
+### Step 10: Group up all the parts
+1. Delete the base.
+2. Group all the parts with Ctrl-G.
+<br>![image](https://github.com/user-attachments/assets/91badcea-9d09-49c3-a908-96c58356c40a)
+
+
+
 
 
 
