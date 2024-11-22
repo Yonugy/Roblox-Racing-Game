@@ -46,8 +46,24 @@
 ### Step 5: Creating the curbs parts
 1. Create 7 white parts and 7 red parts with size 6, 0.2, 8.
 2. Create 2 white parts and 2 red parts with size 6, 0.2, 9.
-3. Rotate and place all the parts as in the picture below.
+3. Rotate and place all the parts as in the picture below.<br>
 ![image](https://github.com/user-attachments/assets/7f18fe76-3f33-4cc0-84ba-19d5e1df3dbf)
+
+### Step 6: Creating the corner curbs parts
+<br>![image](https://github.com/user-attachments/assets/e8b1364b-4e01-4aa2-8830-a88d04c72447)<br>
+1. Create a wedge.
+2. Change the size of the wedge to 0.2, 6, 6.
+3. Rotate the wedge so it looks like the picture below (lying on the ground).
+4. Set the material of the wedge to ***Concrete***.<br>
+![image](https://github.com/user-attachments/assets/13dbb563-0d23-4803-a37f-f1dd191c34ed)
+5. Duplicate 3 more wedges same as the previous slide.
+6. Change the color of 2 wedges to ***Bright red***.
+7. Change the color of 2 wedges to ***Institutional white***.
+8. Rotate the wedges as in the picture below.<br>
+![image](https://github.com/user-attachments/assets/a678d48e-ccc6-4f0c-86d5-cbb57874e755)
+
+
+
 
 
 
