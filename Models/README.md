@@ -124,6 +124,12 @@
 3. Change the material of all 3 blocks to ***Concrete***.
 <br>![image](https://github.com/user-attachments/assets/0ac87351-091b-414d-a897-429b54bc79a3)
 
+### Step 3: Placing the walls
+1. Place the 2 long blocks on the side of the track.
+2. Place the square block on top of all 3 of them (2 blocks and track).
+<br>![image](https://github.com/user-attachments/assets/c27b2512-8254-4eac-97da-d168992bead6)
+
+
 
 
 
