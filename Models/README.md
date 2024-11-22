@@ -65,6 +65,19 @@
 ### Step 7: Place the curbs parts
 ![image](https://github.com/user-attachments/assets/b52c3ce2-5c47-4a7e-af11-8ed432a29f58)
 
+### Step 8: Creating the road parts
+1. Create 6 parts with different size
+<br>(a) 48, 0.2, 64
+<br>(b) 16, 0.2, 48
+<br>(c) 64, 0.2, 1
+<br>(d) 16, 0.2, 1
+<br>(e) 1, 0.2, 15
+<br>(f) 1, 0.2, 65
+2. Change the material to ***Concrete***.
+3. Change the color of
+<br>(a) and (b) to ***Smoky grey***.
+<br>(c), (d), (e), and (f) to ***Lily white***.
+
 
 
 
