@@ -129,6 +129,15 @@
 2. Place the square block on top of all 3 of them (2 blocks and track).
 <br>![image](https://github.com/user-attachments/assets/c27b2512-8254-4eac-97da-d168992bead6)
 
+### Step 4: Placing the upper deck
+1. Duplicate another flat track and place it on top of the walls and platform.
+2. Rotate the flat track as shown in the picture beside.
+3. Group everything up with Ctrl+G.
+4. Don’t forget to anchor the whole model too.
+<br>![image](https://github.com/user-attachments/assets/240469b6-48b7-4be6-a37c-60afa57caa89)
+
+
+
 
 
 
