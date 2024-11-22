@@ -100,6 +100,14 @@
 <br>![image](https://github.com/user-attachments/assets/6415ad00-9e27-49d3-bd31-dba9859bb64f)
 ![image](https://github.com/user-attachments/assets/911f53c1-dee7-480f-8684-0725ff446eb0)
 
+### Step 3: Group up the track
+1. Place the tilted flat track on the wedge base created in the previous step.
+2. Group them up with Ctrl+G.
+3. Anchor the whole model.
+<br>![image](https://github.com/user-attachments/assets/e25d004d-8794-48d8-ac3b-19b4d1e09199)
+
+
+
 
 
 
