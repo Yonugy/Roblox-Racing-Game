@@ -22,6 +22,9 @@ There are 6 different racing track types involved in this game:
 ![image](https://github.com/user-attachments/assets/404e182e-b4d3-48b4-afb9-1fc1a0f9fdd7)
 
 # Full racing track
+### Circular racing track<br>
+![image](https://github.com/user-attachments/assets/278bea95-4602-47b7-a143-1377ac6cf200)
+
 ### Only tracks combination<br>
 ![image](https://github.com/user-attachments/assets/0fa35e7d-748c-4398-85fc-c4be9cceafb2)
 
