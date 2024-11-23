@@ -111,16 +111,12 @@
 5. Duplicate the 6 blocks 5 times and place them as picture 3.
 <br>![image](https://github.com/user-attachments/assets/86307525-e14b-4da1-97da-883ddeb433a9)
 
-
-
-
-
-
-
-
-
-
-
+### Step 4: Placing the road and line
+1. Place the 2 grey blocks on the top and bottom.
+2. Place the 2 white blocks just beside the grey blocks.
+3. Place the grid blocks in the middle.
+4. Group all the parts and anchor the whole model.
+<br>![image](https://github.com/user-attachments/assets/0ba920d6-6a87-48b1-b132-d6a1bb2f8789)
 
 
 ## Ramp racing track
