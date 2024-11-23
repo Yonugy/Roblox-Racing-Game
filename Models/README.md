@@ -89,6 +89,14 @@
 
 
 ## Start/End racing track
+### Step 1: Creating sides parts of the track
+1. Duplicate a flat track first.
+2. Ungroup the flat track with Ctrl-U.
+3. Delete the road part in the middle.
+<br>![image](https://github.com/user-attachments/assets/e16f8c28-9641-457c-b0c1-26807375ec1b)
+
+
+
 
 
 ## Ramp racing track
