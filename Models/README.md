@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ce615ea1-760a-48c1-8651-b607ed837ab8)# Steps to create racing track models
+# Steps to create racing track models
 
 ## Flat racing track
 ### Step 1: Creating a base
