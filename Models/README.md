@@ -95,6 +95,18 @@
 3. Delete the road part in the middle.
 <br>![image](https://github.com/user-attachments/assets/e16f8c28-9641-457c-b0c1-26807375ec1b)
 
+### Step 2: Creating the road parts
+1. Create 2 blocks with size 48,0.2,36.
+2. Change the color of these 2 blocks to ***Smoky grey***.
+3. Create 2 more blocks with size 48,0.2,1.
+4. Change the color of these 2 blocks to ***Lily white***.
+5. Change the material of all 4 blocks to ***Concrete***.
+<br>![image](https://github.com/user-attachments/assets/8bba6cec-27c1-409f-a7fe-13f4bbc232f5)
+
+
+
+
+
 
 
 
