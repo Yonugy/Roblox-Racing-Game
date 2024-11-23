@@ -1,4 +1,4 @@
-# Steps to create racing track models
+![image](https://github.com/user-attachments/assets/ce615ea1-760a-48c1-8651-b607ed837ab8)# Steps to create racing track models
 
 ## Flat racing track
 ### Step 1: Creating a base
@@ -102,6 +102,18 @@
 4. Change the color of these 2 blocks to ***Lily white***.
 5. Change the material of all 4 blocks to ***Concrete***.
 <br>![image](https://github.com/user-attachments/assets/8bba6cec-27c1-409f-a7fe-13f4bbc232f5)
+
+### Step 3: Creating the start/finish line
+1. Create 2 blocks with size 4,0.2,2.
+2. Change the color of these 2 blocks to ***Lily white*** and ***Smoky grey***.
+3. Change the material of these 2 blocks to ***Concrete***.
+4. Duplicate the blocks and place them as picture 2.
+5. Duplicate the 6 blocks 5 times and place them as picture 3.
+<br>![image](https://github.com/user-attachments/assets/86307525-e14b-4da1-97da-883ddeb433a9)
+
+
+
+
 
 
 
