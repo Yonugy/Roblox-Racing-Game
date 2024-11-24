@@ -9,7 +9,7 @@
 ## Flat racing track
 ### Step 1: Creating a base
 1. Create a part.
-2. Change the size to 80, 1, 80.<br>
+2. Change the size to **80, 1, 80**.<br>
 ![image](https://github.com/user-attachments/assets/686d9993-7aee-4cb7-a6cd-6d2bf88d507b)
 
 ### Step 2: Create parts for flat track
@@ -32,13 +32,13 @@
 ## 90 degree turning racing track
 ### Step 1: Creating a base
 1. Create a part.
-2. Change the size to 80, 1, 80.<br>
+2. Change the size to **80, 1, 80**.<br>
 ![image](https://github.com/user-attachments/assets/686d9993-7aee-4cb7-a6cd-6d2bf88d507b)
 
 ### Step 2: Creating the grass parts
-1. Create a part with size 71, 0.2, 9.
-2. Create a part with size 9, 0.2, 9.
-3. Create a part with size 9, 0.2, 80.
+1. Create a part with size **71, 0.2, 9**.
+2. Create a part with size **9, 0.2, 9**.
+3. Create a part with size **9, 0.2, 80**.
 4. Change the color of all 3 parts to ***Bright green***.
 5. Change the material of all 3 parts to ***Grass***.<br>
 ![image](https://github.com/user-attachments/assets/58566554-883b-495f-8c88-8dbc26675ae5)
@@ -50,8 +50,8 @@
 ![image](https://github.com/user-attachments/assets/8a85e82b-52aa-455a-b79b-aca0b953cfe4)
 
 ### Step 5: Creating the curbs parts
-1. Create 7 white parts and 7 red parts with size 6, 0.2, 8.
-2. Create 2 white parts and 2 red parts with size 6, 0.2, 9.
+1. Create 7 white parts and 7 red parts with size **6, 0.2, 8**.
+2. Create 2 white parts and 2 red parts with size **6, 0.2, 9**.
 3. Rotate and place all the parts as in the picture below.<br>
 ![image](https://github.com/user-attachments/assets/7f18fe76-3f33-4cc0-84ba-19d5e1df3dbf)
 
