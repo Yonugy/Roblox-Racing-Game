@@ -58,7 +58,7 @@
 ### Step 6: Creating the corner curbs parts
 <br>![image](https://github.com/user-attachments/assets/e8b1364b-4e01-4aa2-8830-a88d04c72447)<br>
 1. Create a wedge.
-2. Change the size of the wedge to 0.2, 6, 6.
+2. Change the size of the wedge to **0.2, 6, 6**.
 3. Rotate the wedge so it looks like the picture below (lying on the ground).
 4. Set the material of the wedge to ***Concrete***.<br>
 ![image](https://github.com/user-attachments/assets/13dbb563-0d23-4803-a37f-f1dd191c34ed)
@@ -73,12 +73,12 @@
 
 ### Step 8: Creating the road parts
 1. Create 6 parts with different size
-<br>(a) 48, 0.2, 64
-<br>(b) 16, 0.2, 48
-<br>(c) 64, 0.2, 1
-<br>(d) 16, 0.2, 1
-<br>(e) 1, 0.2, 15
-<br>(f) 1, 0.2, 65
+<br>(a) **48, 0.2, 64**
+<br>(b) **16, 0.2, 48**
+<br>(c) **64, 0.2, 1**
+<br>(d) **16, 0.2, 1**
+<br>(e) **1, 0.2, 15**
+<br>(f) **1, 0.2, 65**
 2. Change the material to ***Concrete***.
 3. Change the color of
 <br>(a) and (b) to ***Smoky grey***.
