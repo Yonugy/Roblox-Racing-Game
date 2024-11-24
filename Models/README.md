@@ -102,15 +102,15 @@
 <br>![image](https://github.com/user-attachments/assets/e16f8c28-9641-457c-b0c1-26807375ec1b)
 
 ### Step 2: Creating the road parts
-1. Create 2 blocks with size **48,0.2,36**.
+1. Create 2 blocks with size **48, 0.2, 36**.
 2. Change the color of these 2 blocks to ***Smoky grey***.
-3. Create 2 more blocks with size **48,0.2,1**.
+3. Create 2 more blocks with size **48, 0.2, 1**.
 4. Change the color of these 2 blocks to ***Lily white***.
 5. Change the material of all 4 blocks to ***Concrete***.
 <br>![image](https://github.com/user-attachments/assets/8bba6cec-27c1-409f-a7fe-13f4bbc232f5)
 
 ### Step 3: Creating the start/finish line
-1. Create 2 blocks with size **4,0.2,2**.
+1. Create 2 blocks with size **4, 0.2, 2**.
 2. Change the color of these 2 blocks to ***Lily white*** and ***Smoky grey***.
 3. Change the material of these 2 blocks to ***Concrete***.
 4. Duplicate the blocks and place them as picture 2.
@@ -133,7 +133,7 @@
 
 ### Step 2: Place in the track
 1. Duplicate a model of the flat track we created last week.
-2. Change the orientation of the new flat track **-14.4,0,0**.
+2. Change the orientation of the new flat track **-14.4, 0, 0**.
 <br>![image](https://github.com/user-attachments/assets/6415ad00-9e27-49d3-bd31-dba9859bb64f)
 ![image](https://github.com/user-attachments/assets/911f53c1-dee7-480f-8684-0725ff446eb0)
 
@@ -153,8 +153,8 @@
 <br>![image](https://github.com/user-attachments/assets/d425cb6b-6269-40d5-ab2c-2ddbdd98c9e5)
 
 ### Step 2: Creating the walls
-1. Create 2 blocks with size **9,19,80**.
-2. Create another block with size **80,1,80**.
+1. Create 2 blocks with size **9, 19, 80**.
+2. Create another block with size **80, 1, 80**.
 3. Change the material of all 3 blocks to ***Concrete***.
 <br>![image](https://github.com/user-attachments/assets/0ac87351-091b-414d-a897-429b54bc79a3)
 
