@@ -7,7 +7,7 @@ There are 6 different racing track types involved in this game:
 - [Corner Turning](#corner-turning-90-degrees-turn)
 - [Start/End Line](#startend-line)
 - [Ascent Ramp](#ascent-ramp-uphill)
-- [Descent Ramp](#descent-downhill)
+- [Descent Ramp](#descent-ramp-downhill)
 - [Double Decker](#double-decker)
 
 ### Flat (default)<br>
@@ -16,13 +16,13 @@ There are 6 different racing track types involved in this game:
 ### Corner Turning (90 degrees turn)<br>
 ![image](https://github.com/user-attachments/assets/0c361ce4-4811-49ae-80eb-3fd1455cc40c)
 
-### Start/End line<br>
+### Start/End Line<br>
 ![image](https://github.com/user-attachments/assets/f93bcba3-06a4-47c1-be55-5df089125cad)
 
 ### Ascent Ramp (uphill)<br>
 ![image](https://github.com/user-attachments/assets/73be7062-8d93-4cf2-97d6-0057378e4cfd)
 
-### Descent (downhill)<br>
+### Descent Ramp (downhill)<br>
 ![image](https://github.com/user-attachments/assets/6a00493d-b6e2-444b-90a9-12a3eab8c55f)
 
 ### Double Decker<br>
