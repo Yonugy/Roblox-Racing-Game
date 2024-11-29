@@ -3,6 +3,13 @@ This is an example design of a racing track in a Roblox racing game.
 
 # Racing track types
 There are 6 different racing track types involved in this game:
+- [Flat](#flat-default)
+- [Corner Turning](#corner-turning-90-degrees-turn)
+- [Start/End Line](#startend-line)
+- [Ascent Ramp](#ascent-ramp-uphill)
+- [Descent Ramp](#descent-downhill)
+- [Double Decker](#double-decker)
+
 ### Flat (default)<br>
 ![image](https://github.com/user-attachments/assets/554324cf-0fd6-447e-b1b0-b5f27d7ab2c0)
 
